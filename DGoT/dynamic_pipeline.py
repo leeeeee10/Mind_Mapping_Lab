@@ -3,7 +3,7 @@ import requests
 from dynamic_thought_graph import DynamicThoughtGraph
 
 # ⚠️ 直接写死 API Key
-API_KEY = "sk-edfsimejxizigdometxmimnpmnbrttzfgfykflbmbxguxvob"
+API_KEY = "xxxxxxxxxx"
 API_URL = "https://api.siliconflow.cn/v1/chat/completions"
 
 class LLMWrapper:
