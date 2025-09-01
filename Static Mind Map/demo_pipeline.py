@@ -3,7 +3,7 @@ import requests
 from thought_graph import ThoughtGraph
 
 API_URL = "https://api.siliconflow.cn/v1/chat/completions"
-API_KEY = "sk-edfsimejxizigdometxmimnpmnbrttzfgfykflbmbxguxvob"  # ⚠️ 建议用环境变量
+API_KEY = "xxxxxxxxxxxxxx"  # ⚠️ 建议用环境变量
 
 class LLMWrapper:
     """封装 SiliconFlow API 调用"""
